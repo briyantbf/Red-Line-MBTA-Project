@@ -1,4 +1,5 @@
 Red Line MBTA Simulation:
+
 Overview
 This project simulates the Red Line of the MBTA (Massachusetts Bay Transportation Authority). The simulation involves populating stations with trains and passengers from text files, running the simulation, and logging the status
 of the railway stations and the movement of trains and passengers.
